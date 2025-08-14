@@ -1,0 +1,124 @@
+.G1{
+    text-align: center;
+}
+.img1{
+    width: 300px;
+    height: 200px;
+}
+.txt1{
+    color: yellow;
+    font-family: fantasy;
+    font-size: 30px;
+    margin-top: 10px;
+    text-align: center;
+}
+.txt2{
+    color: yellow;
+    font-family: fantasy;
+    font-size: 20px;
+    margin-top: 10px;
+    text-align:center ;
+}
+.G2{
+    background-image:url(../Imagens/Death-Star.jpeg);
+    border: 10px solid yellow;
+    margin-left: 700px;
+    margin-right: 700px;
+    margin-top: 20px;
+    height: 650px;
+    
+}
+body{
+    background-image: url(../Imagens/Lothal.jpeg);
+    background-size: cover;
+    background-size: 100% 100%;
+}
+.txt3{
+    color: rgb(0, 17, 255);
+    font-family: fantasy;
+    font-size: 20px;
+    margin-top: 20px;  
+    margin-left: 20px;
+}
+.txt4{
+    color: yellow;
+    font-family: fantasy;
+    font-size: 30px;
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.a1{
+    width: 120px;
+    height: 30px;
+    margin-top: 10px;
+    font-family: fantasy;
+    color: rgb(94, 94, 94);
+    margin-left: 20px;
+    
+}
+.a2{
+    width: 120px;
+    height: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    font-family: fantasy;
+    color: rgb(94, 94, 94);
+}
+.a3{
+    width: 120px;
+    height: 30px;
+    margin-right: 10px;
+    margin-top: 10px;
+    font-family: fantasy;
+    color: rgb(94, 94, 94);
+}
+.txt5{
+    color: yellow;
+    font-family: fantasy;
+    font-size: 30px;
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+.p1{
+    color: yellow;
+    font-family: fantasy;
+    font-size: 20px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.txt6{
+    color: rgb(0, 17, 255);
+    font-family: fantasy;
+    font-size: 20px;
+    margin-top: 20px;  
+    margin-left: 20px;
+    width: 450px;
+}
+.txt7{
+    color: rgb(0, 17, 255);
+    font-family: fantasy;
+    font-size: 20px;
+    margin-top: 20px;  
+    margin-left: 20px;
+    width: 450px;
+}
+.txt8{
+    margin-left: 130px;
+    margin-top: 30px;
+    font-size: 40px;
+    color: yellow;
+    background-color: blue;
+    font-family: fantasy;
+}
+.txt9{
+    color: yellow;
+    font-size: 30px;
+    font-family: fantasy;
+    margin-top: 30px;
+    margin-left: 130px;
+}

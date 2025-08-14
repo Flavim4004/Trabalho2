@@ -1,0 +1,77 @@
+.G1{
+    display: flex;
+}
+.img1{
+    height: 200px;
+    width: 300px;
+    margin-top:250px ;
+    margin-left: 300px;
+}
+.txt1{
+    font-family: fantasy;
+    color: yellow;
+    margin-left: 150px;
+    font-size: 30px;
+}
+body{
+    background-color: black;
+}
+.P2{
+    background-image: url(../Imagens/Hyperspace.jpeg);
+    background-size: cover;
+    background-size: 100% 100%;
+    margin-left:250px;
+    margin-top: 240px;
+    border: 20px solid yellow;
+    
+    
+}
+.txt2{
+    width: 300px;
+    line-height: 20%;
+    margin-top: 100px;
+    color: yellow;
+    background-color: black;
+    font-family: fantasy;
+    font-size: 30px;
+    
+    
+}
+.txt3{
+   width: 300px;
+   margin-top: 10px; 
+   color: yellow;
+   background-color: black;
+   font-family: fantasy;
+   font-size: 30px;
+}
+.txt4{
+    width: 300px;
+    margin-top: 10px;
+    color: yellow;
+    background-color: black;
+    font-family: fantasy;
+    font-size: 30px;
+    
+    
+}
+.txt5{
+    color: yellow;
+    font-family: fantasy;
+    margin-left: 40px;
+    margin-top: 10px;
+    font-size: 30px;
+    
+    
+}
+.txt6{
+    margin-bottom: 30px;
+    width: 300px;
+    margin-top: 10px;
+    color: yellow;
+    background-color: black;
+    font-family: fantasy;
+    font-size: 30px;
+    display: block;
+    text-align: center;
+}
